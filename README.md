@@ -1,1 +1,4 @@
 # mid
+echo "메모장 편집기능을 추가합니다." > memo_edit.txt
+git add .
+git commit -m "메모장 편집기능 추가하기"
